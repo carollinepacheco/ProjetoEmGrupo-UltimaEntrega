@@ -1,0 +1,9 @@
+#footer-primary {
+    background: hsl(0, 0%, 65%);
+    text-align: center;
+    margin: 0;
+  }
+
+  #footer-secondy {
+    background: rgba(0, 0, 0, 0.2);
+  }

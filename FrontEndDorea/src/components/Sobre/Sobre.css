@@ -1,0 +1,15 @@
+.main-sobre {
+    background: hsl(0, 0%, 13%);
+    padding: 80px 50px;
+    border-radius: 0%;
+}
+
+#sobre-valores {
+    background: hsl(0, 0%, 94%);
+    padding: 80px;
+}
+
+#sobre-valores,div,p {
+    font-size: 15px;
+    font-weight: 500;
+}
